@@ -3,12 +3,12 @@
 
 ![media](https://github.com/dl423/web-app-for-circuit-analysis/assets/81783344/fe578944-512d-4733-988a-472f26cae574)
 
-- 30-Second Video Demo:
+## 30-Second Video Demo:
 
 https://github.com/dl423/web-app-for-circuit-analysis/assets/81783344/f44be5da-9fe3-43c5-87f9-a9acbafa9c42
 
 
-Technical implementation:
+## Technical implementation:
 - Programming language: Python
 - Programming platform: Google Colab
   - The back-end of the program comprises of two Colab notebooks. One notebook is run in hosted runtime and is responsible for executing most of the functionalities. The other notebook is run locally on a computer to communicate with LTspice.
