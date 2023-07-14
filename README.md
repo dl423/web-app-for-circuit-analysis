@@ -1,7 +1,7 @@
 ## Overview:
 - This web app uses object recognition to identify a hand-drawn electrical circuit diagram and reconstruct it in a digital format (LTspice schematic). It then displays simulation results on the circuit in the form of voltages and currents.
 
-![media](https://github.com/dl423/web-app-for-circuit-analysis/assets/81783344/fe578944-512d-4733-988a-472f26cae574)
+![general overview v2](https://github.com/dl423/web-app-for-circuit-analysis/assets/81783344/c2ec7baf-dc44-49bd-80b3-b90129d23620)
 
 ## 30-Second Video Demo:
 
